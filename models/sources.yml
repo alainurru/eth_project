@@ -1,0 +1,8 @@
+sources:
+  - name: ETH
+    database: ETH
+    schema: ETH_SCHEMA
+    config:
+      enabled: true
+    tables:
+      - name: ETH_TRANSACTIONS_RAW  # enabled
